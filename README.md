@@ -1,5 +1,7 @@
+[![CircleCI](https://circleci.com/gh/SuhasKulkarni08/-Operationalize-a-Machine-Learning-Microservice-API-.svg?style=svg)](https://circleci.com/gh/SuhasKulkarni08/-Operationalize-a-Machine-Learning-Microservice-API-)
 
-Udacity - Operationalize a Machine Learning Microservice API
+
+### Udacity - Operationalize a Machine Learning Microservice API
 
 By Suhas Kulkarni
 
