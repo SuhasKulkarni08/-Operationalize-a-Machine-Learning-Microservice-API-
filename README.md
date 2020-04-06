@@ -1,6 +1,30 @@
-<include a CircleCI status badge, here>
 
-## Project Overview
+Udacity - Operationalize a Machine Learning Microservice API
+
+By Suhas Kulkarni
+
+This repository contains the assignment: Operationalize a Machine Learning Microservice API, which contains several parts:
+Creation and activation of the environment
+
+    Docker installation
+    Lints checks with hadolint and pylint
+    Installation of Kubernetes and Minikube
+
+Dockerfile
+
+    Dockerfile configuration
+    Run a Container & Make a Prediction
+    Logging in the docker_out.txt file
+
+Kubernetes
+
+    Configure Kubernetes to Run Locally
+    Deploy with Kubernetes
+    Savings Output logs in the file kubernetes.out.txt
+
+CircleCI Integration
+
+This repository has been verified with CircleCI
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 
